@@ -1,0 +1,13 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+desktop.ini
+
+# artifacts/figures/
+# artifacts/tables/
+
+# keep run outputs if you want, otherwise uncomment:
+# runs/
